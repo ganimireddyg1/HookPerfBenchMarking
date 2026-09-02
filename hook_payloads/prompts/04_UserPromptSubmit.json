@@ -1,0 +1,14 @@
+﻿{
+    "session_id":  "b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10",
+    "transcript_path":  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin--local-bin\\b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10.jsonl",
+    "cwd":  "C:\\Users\\Admin\\.local\\bin",
+    "hook_event_name":  "UserPromptSubmit",
+    "prompt":  "Kick off a subagent to write the README while you add error handling, and schedule yourself to check back on it in 10 minutes.",
+    "_synthetic_meta":  {
+                            "turn":  4,
+                            "expected_tools":  [
+                                                   "Agent",
+                                                   "ScheduleWakeup"
+                                               ]
+                        }
+}

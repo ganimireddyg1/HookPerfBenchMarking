@@ -1,0 +1,23 @@
+﻿{
+    "session_id":  "b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10",
+    "transcript_path":  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin--local-bin\\b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10.jsonl",
+    "cwd":  "C:\\Users\\Admin\\.local\\bin",
+    "hook_event_name":  "PreToolUse",
+    "tool_name":  "ReportFindings",
+    "tool_input":  {
+                       "level":  "medium",
+                       "findings":  [
+                                        {
+                                            "file":  "wordcount/lib/count.js",
+                                            "line":  14,
+                                            "category":  "correctness",
+                                            "summary":  "Word splitting does not handle multiple consecutive whitespace characters correctly.",
+                                            "failure_scenario":  "Input \u0027a   b\u0027 (3 spaces) is counted as 4 words instead of 2 due to naive split(\u0027 \u0027).",
+                                            "short_summary":  "Whitespace splitting bug"
+                                        }
+                                    ]
+                   },
+    "_synthetic_meta":  {
+                            "schema_confidence":  "confirmed"
+                        }
+}

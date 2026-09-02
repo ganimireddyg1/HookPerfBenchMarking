@@ -1,0 +1,15 @@
+﻿{
+    "session_id":  "b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10",
+    "transcript_path":  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin--local-bin\\b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10.jsonl",
+    "cwd":  "C:\\Users\\Admin\\.local\\bin",
+    "hook_event_name":  "PreToolUse",
+    "tool_name":  "Agent",
+    "tool_input":  {
+                       "subagent_type":  "general-purpose",
+                       "description":  "Write README for wordcount CLI",
+                       "prompt":  "Write a README.md for the new \u0027wordcount\u0027 CLI tool describing installation and usage. Do not modify source files."
+                   },
+    "_synthetic_meta":  {
+                            "schema_confidence":  "confirmed"
+                        }
+}

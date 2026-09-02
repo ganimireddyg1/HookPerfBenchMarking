@@ -1,0 +1,158 @@
+﻿[
+    {
+        "tool":  "Agent",
+        "confidence":  "confirmed"
+    },
+    {
+        "tool":  "Artifact",
+        "confidence":  "confirmed"
+    },
+    {
+        "tool":  "AskUserQuestion",
+        "confidence":  "confirmed"
+    },
+    {
+        "tool":  "Edit",
+        "confidence":  "confirmed"
+    },
+    {
+        "tool":  "Glob",
+        "confidence":  "confirmed"
+    },
+    {
+        "tool":  "Grep",
+        "confidence":  "confirmed"
+    },
+    {
+        "tool":  "ListAgents",
+        "confidence":  "confirmed"
+    },
+    {
+        "tool":  "PowerShell",
+        "confidence":  "confirmed"
+    },
+    {
+        "tool":  "Read",
+        "confidence":  "confirmed"
+    },
+    {
+        "tool":  "ReportFindings",
+        "confidence":  "confirmed"
+    },
+    {
+        "tool":  "ScheduleWakeup",
+        "confidence":  "confirmed"
+    },
+    {
+        "tool":  "SendFeedback",
+        "confidence":  "confirmed"
+    },
+    {
+        "tool":  "Skill",
+        "confidence":  "confirmed"
+    },
+    {
+        "tool":  "ToolSearch",
+        "confidence":  "confirmed"
+    },
+    {
+        "tool":  "Write",
+        "confidence":  "confirmed"
+    },
+    {
+        "tool":  "WebFetch",
+        "confidence":  "confirmed"
+    },
+    {
+        "tool":  "WebSearch",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "CronCreate",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "CronList",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "CronDelete",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "DesignSync",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "EndConversation",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "EnterPlanMode",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "ExitPlanMode",
+        "confidence":  "confirmed"
+    },
+    {
+        "tool":  "EnterWorktree",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "ExitWorktree",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "NotebookEdit",
+        "confidence":  "confirmed"
+    },
+    {
+        "tool":  "PushNotification",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "RemoteTrigger",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "SendMessage",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "SendUserFile",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "TaskOutput",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "TaskStop",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "mcp__claude_ai_Gmail__authenticate",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "mcp__claude_ai_Gmail__complete_authentication",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "mcp__claude_ai_Google_Calendar__authenticate",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "mcp__claude_ai_Google_Calendar__complete_authentication",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "mcp__claude_ai_Google_Drive__authenticate",
+        "confidence":  "inferred"
+    },
+    {
+        "tool":  "mcp__claude_ai_Google_Drive__complete_authentication",
+        "confidence":  "inferred"
+    }
+]

@@ -1,0 +1,16 @@
+﻿{
+    "session_id":  "b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10",
+    "transcript_path":  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin--local-bin\\b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10.jsonl",
+    "cwd":  "C:\\Users\\Admin\\.local\\bin",
+    "hook_event_name":  "UserPromptSubmit",
+    "prompt":  "I want to build a small CLI tool called wordcount in this repo. First search for any existing similar utilities, then give me a plan before you write any code.",
+    "_synthetic_meta":  {
+                            "turn":  1,
+                            "expected_tools":  [
+                                                   "Grep",
+                                                   "Glob",
+                                                   "EnterPlanMode",
+                                                   "ExitPlanMode"
+                                               ]
+                        }
+}

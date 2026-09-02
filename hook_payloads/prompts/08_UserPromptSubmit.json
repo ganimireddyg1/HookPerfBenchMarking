@@ -1,0 +1,16 @@
+﻿{
+    "session_id":  "b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10",
+    "transcript_path":  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin--local-bin\\b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10.jsonl",
+    "cwd":  "C:\\Users\\Admin\\.local\\bin",
+    "hook_event_name":  "UserPromptSubmit",
+    "prompt":  "Last thing: clean up any cron jobs I no longer need, trigger the remote deploy webhook, and sync the demo page to Design so the team can see it visually.",
+    "_synthetic_meta":  {
+                            "turn":  8,
+                            "expected_tools":  [
+                                                   "CronList",
+                                                   "CronDelete",
+                                                   "RemoteTrigger",
+                                                   "DesignSync"
+                                               ]
+                        }
+}

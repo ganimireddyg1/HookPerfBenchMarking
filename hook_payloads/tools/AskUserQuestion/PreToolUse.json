@@ -1,0 +1,29 @@
+﻿{
+    "session_id":  "b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10",
+    "transcript_path":  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin--local-bin\\b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10.jsonl",
+    "cwd":  "C:\\Users\\Admin\\.local\\bin",
+    "hook_event_name":  "PreToolUse",
+    "tool_name":  "AskUserQuestion",
+    "tool_input":  {
+                       "questions":  [
+                                         {
+                                             "question":  "Which argument parser should the wordcount CLI use?",
+                                             "header":  "Arg parser",
+                                             "multiSelect":  false,
+                                             "options":  [
+                                                             {
+                                                                 "label":  "Commander.js (Recommended)",
+                                                                 "description":  "Widely used, minimal boilerplate"
+                                                             },
+                                                             {
+                                                                 "label":  "Hand-rolled parser",
+                                                                 "description":  "Zero dependencies, more code to maintain"
+                                                             }
+                                                         ]
+                                         }
+                                     ]
+                   },
+    "_synthetic_meta":  {
+                            "schema_confidence":  "confirmed"
+                        }
+}

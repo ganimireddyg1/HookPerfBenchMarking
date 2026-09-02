@@ -1,0 +1,19 @@
+﻿{
+    "session_id":  "b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10",
+    "transcript_path":  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin--local-bin\\b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10.jsonl",
+    "cwd":  "C:\\Users\\Admin\\.local\\bin",
+    "hook_event_name":  "PostToolUse",
+    "tool_name":  "SendFeedback",
+    "tool_input":  {
+                       "type":  "idea",
+                       "title":  "Worktree flow could show a clearer status indicator",
+                       "details":  "**What happened:** Ran EnterWorktree then several edits; no visible indicator of which worktree was active.\n**What the user said:** \"the worktree flow felt confusing\"\n**Repro:** EnterWorktree -\u003e Edit x3 -\u003e ExitWorktree",
+                       "area":  "worktree"
+                   },
+    "tool_response":  {
+                          "status":  "queued_locally"
+                      },
+    "_synthetic_meta":  {
+                            "schema_confidence":  "confirmed"
+                        }
+}

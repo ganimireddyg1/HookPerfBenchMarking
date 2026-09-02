@@ -1,0 +1,15 @@
+﻿{
+    "session_id":  "b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10",
+    "transcript_path":  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin--local-bin\\b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10.jsonl",
+    "cwd":  "C:\\Users\\Admin\\.local\\bin",
+    "hook_event_name":  "PreToolUse",
+    "tool_name":  "PowerShell",
+    "tool_input":  {
+                       "command":  "npm test",
+                       "description":  "Run the wordcount test suite",
+                       "timeout":  120000
+                   },
+    "_synthetic_meta":  {
+                            "schema_confidence":  "confirmed"
+                        }
+}

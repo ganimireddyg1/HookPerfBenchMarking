@@ -1,0 +1,16 @@
+﻿{
+    "session_id":  "b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10",
+    "transcript_path":  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin--local-bin\\b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10.jsonl",
+    "cwd":  "C:\\Users\\Admin\\.local\\bin",
+    "hook_event_name":  "UserPromptSubmit",
+    "prompt":  "Once it\u0027s done, merge the worktree back, publish a quick usage-demo page I can share, set up a nightly cron job to run the tests, and send the finished report file to my phone.",
+    "_synthetic_meta":  {
+                            "turn":  5,
+                            "expected_tools":  [
+                                                   "ExitWorktree",
+                                                   "Artifact",
+                                                   "CronCreate",
+                                                   "SendUserFile"
+                                               ]
+                        }
+}

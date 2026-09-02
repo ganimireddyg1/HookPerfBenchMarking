@@ -1,0 +1,17 @@
+﻿{
+    "session_id":  "b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10",
+    "transcript_path":  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin--local-bin\\b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10.jsonl",
+    "cwd":  "C:\\Users\\Admin\\.local\\bin",
+    "hook_event_name":  "PreToolUse",
+    "tool_name":  "NotebookEdit",
+    "tool_input":  {
+                       "notebook_path":  "C:\\Users\\Admin\\.local\\bin\\wordcount\\examples\\usage.ipynb",
+                       "cell_id":  "cell-1",
+                       "cell_type":  "code",
+                       "edit_mode":  "insert",
+                       "new_source":  "import subprocess\nprint(subprocess.run([\u0027node\u0027,\u0027index.js\u0027,\u0027sample.txt\u0027], capture_output=True, text=True).stdout)"
+                   },
+    "_synthetic_meta":  {
+                            "schema_confidence":  "confirmed"
+                        }
+}

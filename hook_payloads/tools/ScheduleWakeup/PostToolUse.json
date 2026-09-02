@@ -1,0 +1,20 @@
+﻿{
+    "session_id":  "b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10",
+    "transcript_path":  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin--local-bin\\b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10.jsonl",
+    "cwd":  "C:\\Users\\Admin\\.local\\bin",
+    "hook_event_name":  "PostToolUse",
+    "tool_name":  "ScheduleWakeup",
+    "tool_input":  {
+                       "delaySeconds":  600,
+                       "reason":  "check on readme-writer subagent progress",
+                       "prompt":  "Check whether the readme-writer subagent has finished and review its output.",
+                       "noop":  false
+                   },
+    "tool_response":  {
+                          "status":  "scheduled",
+                          "fires_at":  "2026-09-02T10:16:00Z"
+                      },
+    "_synthetic_meta":  {
+                            "schema_confidence":  "confirmed"
+                        }
+}

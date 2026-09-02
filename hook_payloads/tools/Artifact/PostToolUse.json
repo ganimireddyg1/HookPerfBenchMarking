@@ -1,0 +1,21 @@
+﻿{
+    "session_id":  "b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10",
+    "transcript_path":  "C:\\Users\\Admin\\.claude\\projects\\C--Users-Admin--local-bin\\b17b2e2e-9c41-4e2a-8f2a-4b1e9d7a3c10.jsonl",
+    "cwd":  "C:\\Users\\Admin\\.local\\bin",
+    "hook_event_name":  "PostToolUse",
+    "tool_name":  "Artifact",
+    "tool_input":  {
+                       "action":  "publish",
+                       "file_path":  "C:\\Users\\Admin\\AppData\\Local\\Temp\\claude\\scratchpad\\wordcount-demo.html",
+                       "title":  "Wordcount Demo",
+                       "description":  "Interactive usage demo for the wordcount CLI.",
+                       "favicon":  "🔤"
+                   },
+    "tool_response":  {
+                          "status":  "published",
+                          "url":  "https://claude.ai/code/artifact/3f9a2c11-8b7d-4e2a-9c11-2b7d4e2a9c11"
+                      },
+    "_synthetic_meta":  {
+                            "schema_confidence":  "confirmed"
+                        }
+}
